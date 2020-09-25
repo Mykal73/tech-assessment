@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wassi\\Documents\\Sogeti\\tech-assessment\\CSharp\\CSharp.csproj": {}
+    "C:\\Users\\mykal\\Documents\\repos\\tech-assessment\\CSharp\\CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wassi\\Documents\\Sogeti\\tech-assessment\\CSharp\\CSharp.csproj": {
+    "C:\\Users\\mykal\\Documents\\repos\\tech-assessment\\CSharp\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wassi\\Documents\\Sogeti\\tech-assessment\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\mykal\\Documents\\repos\\tech-assessment\\CSharp\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "C:\\Users\\wassi\\Documents\\Sogeti\\tech-assessment\\CSharp\\CSharp.csproj",
-        "packagesPath": "C:\\Users\\wassi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wassi\\Documents\\Sogeti\\tech-assessment\\CSharp\\obj\\",
+        "projectPath": "C:\\Users\\mykal\\Documents\\repos\\tech-assessment\\CSharp\\CSharp.csproj",
+        "packagesPath": "C:\\Users\\mykal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mykal\\Documents\\repos\\tech-assessment\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\wassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mykal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
